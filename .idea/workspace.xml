@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf8bfbc5-a111-425a-972a-50f925db4ea4" name="Changes" comment="Creando proyecto, creando clase Pelicula">
-      <change afterPath="$PROJECT_DIR$/src/servicio/IServicioPelicula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servicio/ServicioPeliculaLista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cf8bfbc5-a111-425a-972a-50f925db4ea4" name="Changes" comment="Creacion de la clase ServicioPeliculaLista e implementando interfaz IServicioPelicula">
+      <change beforePath="$PROJECT_DIR$/src/servicio/ServicioPeliculaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servicio/ServicioPeliculaLista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714084480168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creacion de la clase ServicioPeliculaLista e implementando interfaz IServicioPelicula">
+      <option name="closed" value="true" />
+      <created>1714085133737</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714085133737</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creando proyecto, creando clase Pelicula" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando proyecto, creando clase Pelicula" />
+    <MESSAGE value="Creacion de la clase ServicioPeliculaLista e implementando interfaz IServicioPelicula" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creacion de la clase ServicioPeliculaLista e implementando interfaz IServicioPelicula" />
   </component>
 </project>
