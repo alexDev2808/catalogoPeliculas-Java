@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf8bfbc5-a111-425a-972a-50f925db4ea4" name="Changes" comment="Creacion de la clase ServicioPeliculaLista e implementando interfaz IServicioPelicula">
-      <change beforePath="$PROJECT_DIR$/src/servicio/ServicioPeliculaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servicio/ServicioPeliculaLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/presentacion/CatalogoPeliculasApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2fcDRlEnO2gH74VRlZzYkIyfo0q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,6 +36,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CatalogoPeliculasApp.executor": "Run",
+    "Application.ServicioPeliculaLista.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
