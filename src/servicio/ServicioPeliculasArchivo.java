@@ -35,6 +35,8 @@ public class ServicioPeliculasArchivo implements IServicioPelicula {
             //leer linea a linea
             String linea;
             linea = entrada.readLine();
+
+            System.out.println("######## Listado de peliculas ##############");
             // leer todas las lineas
             while (linea != null) {
                 Pelicula pelicula = new Pelicula(linea);
@@ -42,6 +44,7 @@ public class ServicioPeliculasArchivo implements IServicioPelicula {
                 linea = entrada.readLine();
             }
 
+            System.out.println("#########################################");
             // cerrar el archivo
             entrada.close();
 
